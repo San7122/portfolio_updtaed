@@ -323,7 +323,7 @@ export default function Portfolio() {
 
   const skills = {
     "AI / ML": ["LLMs","NLP","Generative AI","MCP Server","OpenAI / DALL·E","Deep Learning","Machine Learning","Computer Vision","Statistical Modeling","OCR (PaddleOCR, Tesseract, Donut)","Amazon Bedrock","Google Vision AI"],
-    "Languages": ["Python","SQL","JavaScript"],
+    "Languages & Frontend": ["Python","SQL","JavaScript","React","HTML"],
     "Data & Tools": ["MongoDB","Power BI","Tableau","Pandas","NumPy","Scikit-learn","Matplotlib","Seaborn","Excel"],
     "Pipelines & Deployment": ["End-to-End AI Pipelines","Data Ingestion","ETL","Model Inference","Workflow Automation","Docker","SEO/Backlink Automation","Social Media Automation"],
   };
