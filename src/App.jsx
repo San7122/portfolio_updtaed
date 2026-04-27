@@ -364,10 +364,10 @@ export default function Portfolio() {
   ];
 
   const stats = [
-    { label: "Documents Analyzed", value: 500000, suffix: "+" },
     { label: "Manual Analysis Reduced", value: 40, suffix: "%" },
-    { label: "Engagement Increase", value: 3, suffix: "x" },
+    { label: "Engagement Increase (DM Tool)", value: 3, suffix: "x" },
     { label: "Backlink Accuracy", value: 100, suffix: "%" },
+    { label: "AI Projects Built Solo", value: 5, suffix: "+" },
   ];
 
   // parallax offset for decorative elements
