@@ -439,7 +439,7 @@ export default function Portfolio() {
               Building financial AI tools with Python, LLMs & NLP. Turning complex data into scalable, production-ready AI solutions — independently from concept to deployment.
             </p>
             <div style={{ display: "flex", gap: 16, flexWrap: "wrap", transform: "translateZ(5px)" }}>
-              {[{ label: "Get In Touch", href: "mailto:sanjanathakur302@gmail.com", primary: true }, { label: "View My Work", href: "#experience" }].map((b, i) => (
+              {[{ label: "Get In Touch", href: "#contact", primary: true }, { label: "View My Work", href: "#experience" }].map((b, i) => (
                 <a key={i} href={b.href} style={{
                   padding: "13px 30px", borderRadius: 10, fontSize: 14, fontWeight: 700,
                   background: b.primary ? "linear-gradient(135deg,#00e5ff,#7c4dff)" : "transparent",
